@@ -1,0 +1,23 @@
+1. Complisity analysis annotation, Omiga, Big, definitation of those annotation, bigO, bigD...
+be familar with diagram
+
+Use Limiation to imporve the complexisity,  dont need to rememeber the master formula
+
+
+2. nlogn, no credit or partial credit for more than nlogn,  for a given question
+
+3. Sorting questions
+	Mainly focus on Quick sorting and merge sorting,  average case, worse case,  stable or not stalbe algorithm
+
+4. use psudo code to present algorithm
+	bigO bigData bigSeta
+
+5 weakness of different sorting
+
+
+
+a. Complixsity analysis  15 pts  4 questions
+b. Divider/Conquer, recursive  6 pts   2 questions
+c. Analysis  			 5 pt  1 question
+d. Soring 				 12 pts,   3 questions
+e. SCI		
