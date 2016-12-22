@@ -21,3 +21,8 @@ b. Divider/Conquer, recursive  6 pts   2 questions
 c. Analysis  			 5 pt  1 question
 d. Soring 				 12 pts,   3 questions
 e. SCI		
+
+
+git
+git
+git
